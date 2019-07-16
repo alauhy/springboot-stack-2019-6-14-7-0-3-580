@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/springboot-stack-2019-6-14-7-0-3-580.iml" filepath="$PROJECT_DIR$/springboot-stack-2019-6-14-7-0-3-580.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springboot-stack.iml" filepath="$PROJECT_DIR$/.idea/modules/springboot-stack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springboot-stack_main.iml" filepath="$PROJECT_DIR$/.idea/modules/springboot-stack_main.iml" group="springboot-stack" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springboot-stack_test.iml" filepath="$PROJECT_DIR$/.idea/modules/springboot-stack_test.iml" group="springboot-stack" />
     </modules>
   </component>
 </project>
